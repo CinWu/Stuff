@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body><link rel="stylesheet" type="text/css" href="l1.css"></head>
+<html><title>Welcome!</title><body bgcolor=white><font size=5 color="black">
+
+<div id="container" style="width:contain; height:contain;">
+
+<div id="header" style="background-color:black;
+background-image:url('h1.png');
+background-size:contain;
+background-position:center;
+background-repeat:no-repeat;">
+<h1 style="margin-bottom:0;">
+<body bgcolor=black>
+<title>Welcome!</title>
+<font size=5 color="black"><form action = "py.py" method = "get">
+</br><center><input type="submit" name="click" value="click"></center>
+</form>
+</h1>
+</div>
+
+<div id="menu" style="background-color:#FFD700;width:100px;float:right;">
+<b><h1>Menu</b><br>
+HTML<br>
+CSS<br>
+JavaScript</h1></div>
+
+<div id="content" style="background-color:#EEEEEE;height:contain;width:containv;">
+Content goes here</div>
+
+<div id="footer" style="background-color:#FFA500;clear:both;text-align:center;height:50px">
+Woof</div>
+
+</div>
+ 
+</body>
+</html>
+</body>
+</html>
