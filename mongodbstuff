@@ -1,0 +1,14 @@
+show dbs //list databases
+use zz //
+show collections
+system.indexes
+db.people.insert({name:'bob', age:100})
+db.people.find()
+db.people.find({'name':'bob'})
+db.people.find({age:{$gt:50}}) //$gt == >
+db.people.find({name:true}) //find only names
+db.people.remove({name:'apdaop'})
+db.people.drop()
+db.dropdatabase()
+db.people.update({name:'bob'}, {name:'newbob', age:1}) //replaces dictionaries
+db.people.update({name:'newbob'}, {$set:{age:1.1}) //updates w/o replacing
