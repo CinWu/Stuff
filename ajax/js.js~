@@ -1,0 +1,4 @@
+$(document).ready(function() {
+    //normally "name" starter stuff goes here
+    //?console.log(document.getelementbyid
+}
