@@ -1,0 +1,4 @@
+var base = 100;
+var f = function(x){
+    return x*base;
+}
