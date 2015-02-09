@@ -41,7 +41,7 @@ var go = function() {
 var params = function() {
     $get("/upcase",{'data':'somthingtoupcase'},function(d){
 	console.log(d);
-    }
+    };
 	)
 
 $(document).ready(function() {

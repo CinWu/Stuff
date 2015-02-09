@@ -1,0 +1,20 @@
+var c = document.getElementById('can');
+car ctx = dsdasd;
+
+var makeBlock =function( x, y, h, w, ctx ) {
+    return {
+    	   x : x;
+	   y : y;
+	   sfkfk;
+	   sfsd;
+	   fsd;
+	   draw : function() {
+	   	ctx.fillstyle = this.color;
+		dlad;
+		};
+	   move : function() {};
+	   }
+
+
+var blocks = [];
+blocks.push

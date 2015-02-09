@@ -1,0 +1,12 @@
+SVG - Scalable Vector Graphics
+embedded in docs
+slow and doesnt work well with other things
+better for complicated things
+
+HTML5 canvas
+window of drawing
+rastor
+faster
+
+Rastor display -frame buffer, easy but blocky
+grid
